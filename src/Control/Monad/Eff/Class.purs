@@ -3,6 +3,8 @@ module Control.Monad.Eff.Class
   , liftEff
   ) where
 
+import Prelude
+
 import Data.Monoid
 
 import Control.Monad.Eff

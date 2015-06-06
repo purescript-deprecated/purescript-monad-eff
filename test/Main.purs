@@ -1,5 +1,7 @@
 module Test.Main where
 
+import Prelude
+
 import Console
 import Control.Monad.Eff
 import Control.Monad.Eff.Class
