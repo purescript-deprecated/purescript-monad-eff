@@ -1,17 +1,3 @@
-# purescript-monad-eff
+# DEPRECATED
 
-A type class for monads which support native effects.
-
-## DEPRECATED
-
-The `Control.Monad.Eff.Class` module has been moved into `purescript-eff`. If you are using version 0.7 or later of the PureScript compiler, you should use `purescript-eff`. Existing releases of this library will continue to work with older versions of the compiler.
-
-## Installation
-
-```
-bower install purescript-monad-eff
-```
-
-## Module documentation
-
-- [Control.Monad.Eff.Class](docs/Control.Monad.Eff.Class.md)
+The `Control.Monad.Eff.Class` module has been moved into `purescript-eff`. If you are using version 0.7 or later of the PureScript compiler, you should use `purescript-eff`. The [original v0.1.0 release](https://github.com/purescript/purescript-monad-eff/tree/v0.1.0) of this library will continue to work with older versions of the compiler.
